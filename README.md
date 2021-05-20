@@ -15,18 +15,6 @@
 # 最后
 如果觉得不错，欢迎点个 star，谢谢
 
-# 关于作者
+# 爱她
 
-**加我的微信，备注：「个人简单介绍」+「读者」**， 拉你进读者交流群。
-
-<div  align="center">   <img src="https://cdn.jsdelivr.net/gh/rongweihe/ImageHost01/gzh/weichat001.jpeg" width = "300" height = "400" align=center/> </div>
-
-# 公众号
-
-分享一些有趣的东西，发在公众号里面，所以请各位大大也扫码关注，支持一波吧
-
-<p align="center">
-  <a href="https://github.com/rongweihe/MoreThanCode/">
-      <img src="https://cdn.jsdelivr.net/gh/rongweihe/ImageHost01/gzh/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%BA%95%E9%83%A8.jpeg" height="200" width="500">
-  </a>
-</p>
+** 爱你哟 lyn
